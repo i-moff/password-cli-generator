@@ -1,0 +1,8 @@
+{
+  "name": "password-cli-generator",
+  "version": "0.0.1",
+  "dependencies": {
+    "commander": "^2.18.0",
+    "lodash": "^4.17.11"
+  }
+}
